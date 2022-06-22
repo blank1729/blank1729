@@ -1,7 +1,7 @@
 Hey,
 Hi Visitor
 
-I see you wanna know more about me
+🔭 I’m currently working on Reader's Evening homepage
 
 Fine then,here we go, brace yourself
 
@@ -15,7 +15,7 @@ I kind off hate coding, but really love problem solving, I learn a little bit ab
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
