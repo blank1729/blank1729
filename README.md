@@ -1,13 +1,14 @@
-Hey,
-Hi Visitor
+Hello 👋
+Happy to see you here
 
-🔭 I’m currently working on Reader's Evening homepage
+You can call me Vinay. I am currently free to do whatever I want(nothing illegal). 
 
-Fine then,here we go, brace yourself
-
-I am Vinay. You can call me vinnu if you would like to. I enjoy reading books, watching anime, playing video games, going out on errands when it's cool outside.
-
-I kind off hate coding, but really love problem solving, I learn a little bit about computers and coding from books and YouTube.
+- 🌱 I’m currently learning React and it's evosystem
+- 👯 I’m looking to collaborate on anything React or JavaScript
+- 💬 Ask me about Software, javaScript, Linux
+- 📫 How to reach me: [@bl__nk_](https://twitter.com/bl__nk_) on twitter
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love reading books
 
 
 <!--
