@@ -1,27 +1,11 @@
-Hello 👋
-Happy to see you here
+![](https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif)
 
-You can call me Vinay. I am currently free to do whatever I want(nothing illegal). 
+Hi! 👋, I am **blank**, happy to see you here
 
-- 🌱 I’m currently learning React and it's evosystem
-- 👯 I’m looking to collaborate on anything React or JavaScript
-- 💬 Ask me about Software, javaScript, Linux
-- 📫 How to reach me: [@bl__nk_](https://twitter.com/bl__nk_) on twitter
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love reading books
+### Here are few things about me
+- 🌱 I’m currently learning golang and backend webdev
+- 👯 I’m looking to collaborate on anything realted to golang
+- 💬 You can talk to me about Open Source Software, Linux, Books, PC games
 
 
-<!--
-**vinnu23/vinnu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I will add few more line later*
