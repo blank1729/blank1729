@@ -3,9 +3,7 @@
 Hi! 👋, I am **blank**, happy to see you here
 
 ### Here are few things about me
-- 🌱 I’m currently learning golang and backend webdev
-- 👯 I’m looking to collaborate on anything realted to golang
-- 💬 You can talk to me about Open Source Software, Linux, Books, PC games
+- 🌱 I’m currently building a redis clone in golang and trying to compile linux kernel
+- 👯 I’m looking to for a frontend or backend internship or entry level software developer job
+- 💬 You can talk to me about Open Source Software, Linux Kernel, Books, PC games,
 
-
-*I will add few more line later*
