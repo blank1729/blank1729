@@ -9,9 +9,10 @@ Hi! 👋, I am **blank**, happy to see you here
 
 
 ## Repos
+
 - [blank1729.github.io](https://github.com/blank1729/blank1729.github.io)
 - [Notes](https://github.com/blank1729/notes)
-- [Portfolio])(https://github.com/blank1729/portfolio)
+- [Portfolio](https://github.com/blank1729/portfolio)
 - [dotfiles](https://github.com/blank1729/dotfiles)
 - [Scripts](https://github.com/blank1729/scripts)
 
