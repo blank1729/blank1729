@@ -1,5 +1,3 @@
-![](https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif)
-
 Hi! 👋, I am **blank**, happy to see you here
 
 ### Here are few things about me
